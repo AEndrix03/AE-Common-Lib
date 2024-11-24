@@ -1,0 +1,6 @@
+[submodule "ae-common-lib-be"]
+	path = ae-common-lib-be
+	url = https://github.com/AEndrix03/ae-common-lib-be
+[submodule "ae-common-lib-fe"]
+	path = ae-common-lib-fe
+	url = https://github.com/AEndrix03/ae-common-lib-fe
